@@ -121,9 +121,9 @@ a {
     font-size: 16px;
     margin: 10px 0 15px 0;
 }
-/* combined declarations section end */ 
+/* end combined declarations section */ 
 
-/* begin footer style */
+/* begin <footer> style */
 .footer {
     padding: 30px;
     clear: both;
@@ -134,4 +134,4 @@ a {
 .footer h2 {
     font-size: 20px;
 }
-/* end footer style */
+/* end <footer> style */
